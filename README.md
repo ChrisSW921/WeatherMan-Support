@@ -1,4 +1,4 @@
-# How's the weather over there?
+# Sunlight
 
 Support and privacy pages for the iOS app, hosted with GitHub Pages:
 
